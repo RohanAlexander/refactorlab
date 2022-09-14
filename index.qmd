@@ -2,8 +2,10 @@
 title: "Refactor Lab"
 ---
 
-Science is broken. Especially social science. We basically have no idea what is true. Refactor Lab fixes this by re-writing the code that underpins the most important research papers in the world. 
+Data science is broken. We basically have no idea what is true. Refactor Lab fixes this by re-writing the code that underpins the most important research papers in the world. We are building a large suite of automated unit tests for common tasks in data science. This will make data scientists more productive and enable more confidence in their conclusions.
 
 Refactor Lab is in private beta. Please sign up [here](https://forms.gle/kgq4g2qGp6ozpFKz8) to be informed when we publicly launch.
 
 If you are an employer looking to hire highly-trained data science students please get in touch with [Rohan Alexander](https://rohanalexander.com).
+
+
